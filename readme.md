@@ -47,6 +47,6 @@ Task 13: For document with `_id=1` add "Golf" to hobbies (`$addToSet` / `$push`)
 
 Task 14: For document with `_id=1`, remove the "age" field (`$unset`)
 
-Task 13: For document with `_id=1` add "Basketball" to hobbies at position 0
+Task 15: For document with `_id=1` add "Basketball" to hobbies at position 0
 
-Task 13: For document with `_id=1` replace "Basketball" to hobbies at position 0
+Task 16: For document with `_id=1` in hobbies replace "Basketball" with "Football"
