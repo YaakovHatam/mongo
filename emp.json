@@ -1,0 +1,1302 @@
+[
+    {
+        "name": "Tara",
+        "age": 37,
+        "phone": {
+            "personal": "570-210-947",
+            "work": "469-328-530",
+            "ext": 7903
+        },
+        "favorites": {
+            "restaurant": "Taco Bell",
+            "artist": "Hillary Hewitt Goldwynn-Post"
+        }
+    },
+    {
+        "name": "Doloritas",
+        "age": 46,
+        "phone": {
+            "personal": "465-617-427",
+            "work": "402-582-323",
+            "ext": 9111
+        },
+        "favorites": {
+            "restaurant": "Five Guys",
+            "artist": "Jonathan G. Ferrar II"
+        }
+    },
+    {
+        "name": "Marietta",
+        "age": 44,
+        "phone": {
+            "personal": "772-828-459",
+            "work": "194-143-112",
+            "ext": 5913
+        },
+        "favorites": {
+            "restaurant": "Chipotle",
+            "artist": "Barot Bellingham"
+        }
+    },
+    {
+        "name": "Wendy",
+        "age": 72,
+        "phone": {
+            "personal": "371-404-869",
+            "work": "988-173-556",
+            "ext": 4747
+        },
+        "favorites": {
+            "restaurant": "Wendys",
+            "artist": "Hillary Hewitt Goldwynn-Post"
+        }
+    },
+    {
+        "name": "Kimberlyn",
+        "age": 50,
+        "phone": {
+            "personal": "656-891-588",
+            "work": "816-217-954",
+            "ext": 5284
+        },
+        "favorites": {
+            "restaurant": "Sonic",
+            "artist": "Jonathan G. Ferrar II"
+        }
+    },
+    {
+        "name": "Jeanna",
+        "age": 44,
+        "phone": {
+            "personal": "211-396-707",
+            "work": "335-683-660",
+            "ext": 9551
+        },
+        "favorites": {
+            "restaurant": "Taco Bell",
+            "artist": "Jonathan G. Ferrar II"
+        }
+    },
+    {
+        "name": "Leah",
+        "age": 23,
+        "phone": {
+            "personal": "731-977-711",
+            "work": "386-724-690",
+            "ext": 8611
+        },
+        "favorites": {
+            "restaurant": "Arbys",
+            "artist": "LaVonne L. LaRue"
+        }
+    },
+    {
+        "name": "Anni",
+        "age": 26,
+        "phone": {
+            "personal": "156-182-910",
+            "work": "287-349-269",
+            "ext": 4671
+        },
+        "favorites": {
+            "restaurant": "Arbys",
+            "artist": "Hillary Hewitt Goldwynn-Post"
+        }
+    },
+    {
+        "name": "Linda",
+        "age": 20,
+        "phone": {
+            "personal": "498-717-313",
+            "work": "796-425-916",
+            "ext": 8475
+        },
+        "favorites": {
+            "restaurant": "Chick-fil-A",
+            "artist": "Constance Olivia Smith"
+        }
+    },
+    {
+        "name": "Nataline",
+        "age": 61,
+        "phone": {
+            "personal": "819-158-375",
+            "work": "171-783-457",
+            "ext": 1118
+        },
+        "favorites": {
+            "restaurant": "McDonalds",
+            "artist": "Constance Olivia Smith"
+        }
+    },
+    {
+        "name": "Phoebe",
+        "age": 38,
+        "phone": {
+            "personal": "813-307-579",
+            "work": "811-327-723",
+            "ext": 7959
+        },
+        "favorites": {
+            "restaurant": "Panera",
+            "artist": "Barot Bellingham"
+        }
+    },
+    {
+        "name": "Licha",
+        "age": 26,
+        "phone": {
+            "personal": "650-989-163",
+            "work": "302-769-911",
+            "ext": 8580
+        },
+        "favorites": {
+            "restaurant": "McDonalds",
+            "artist": "Jonathan G. Ferrar II"
+        }
+    },
+    {
+        "name": "Beryle",
+        "age": 24,
+        "phone": {
+            "personal": "955-940-644",
+            "work": "798-205-701",
+            "ext": 6405
+        },
+        "favorites": {
+            "restaurant": "Sonic",
+            "artist": "Jonathan G. Ferrar II"
+        }
+    },
+    {
+        "name": "Gena",
+        "age": 24,
+        "phone": {
+            "personal": "898-782-844",
+            "work": "123-301-236",
+            "ext": 9262
+        },
+        "favorites": {
+            "restaurant": "Arbys",
+            "artist": "LaVonne L. LaRue"
+        }
+    },
+    {
+        "name": "Michaelina",
+        "age": 79,
+        "phone": {
+            "personal": "512-395-297",
+            "work": "609-301-558",
+            "ext": 2893
+        },
+        "favorites": {
+            "restaurant": "In-N-Out",
+            "artist": "Riley Rudolph Rewington"
+        }
+    },
+    {
+        "name": "Isabel",
+        "age": 53,
+        "phone": {
+            "personal": "187-943-909",
+            "work": "490-958-805",
+            "ext": 7518
+        },
+        "favorites": {
+            "restaurant": "Burger King",
+            "artist": "Riley Rudolph Rewington"
+        }
+    },
+    {
+        "name": "Rikki",
+        "age": 36,
+        "phone": {
+            "personal": "211-980-368",
+            "work": "828-628-697",
+            "ext": 9314
+        },
+        "favorites": {
+            "restaurant": "Arbys",
+            "artist": "Jennifer Jerome"
+        }
+    },
+    {
+        "name": "Torrie",
+        "age": 25,
+        "phone": {
+            "personal": "212-787-122",
+            "work": "598-596-150",
+            "ext": 4024
+        },
+        "favorites": {
+            "restaurant": "Wendys",
+            "artist": "Hassum Harrod"
+        }
+    },
+    {
+        "name": "Zsazsa",
+        "age": 66,
+        "phone": {
+            "personal": "985-223-166",
+            "work": "339-564-836",
+            "ext": 6969
+        },
+        "favorites": {
+            "restaurant": "Cookout",
+            "artist": "Hassum Harrod"
+        }
+    },
+    {
+        "name": "Blinny",
+        "age": 37,
+        "phone": {
+            "personal": "164-705-818",
+            "work": "925-668-836",
+            "ext": 9480
+        },
+        "favorites": {
+            "restaurant": "Cookout",
+            "artist": "LaVonne L. LaRue"
+        }
+    },
+    {
+        "name": "Rochelle",
+        "age": 26,
+        "phone": {
+            "personal": "897-549-429",
+            "work": "870-377-300",
+            "ext": 8838
+        },
+        "favorites": {
+            "restaurant": "Panera",
+            "artist": "Jennifer Jerome"
+        }
+    },
+    {
+        "name": "Lilias",
+        "age": 55,
+        "phone": {
+            "personal": "446-522-197",
+            "work": "445-839-364",
+            "ext": 9227
+        },
+        "favorites": {
+            "restaurant": "McDonalds",
+            "artist": "Hillary Hewitt Goldwynn-Post"
+        }
+    },
+    {
+        "name": "Salli",
+        "age": 27,
+        "phone": {
+            "personal": "453-806-772",
+            "work": "242-722-720",
+            "ext": 1424
+        },
+        "favorites": {
+            "restaurant": "Wendys",
+            "artist": "Jennifer Jerome"
+        }
+    },
+    {
+        "name": "Page",
+        "age": 60,
+        "phone": {
+            "personal": "115-195-131",
+            "work": "892-399-393",
+            "ext": 3448
+        },
+        "favorites": {
+            "restaurant": "Arbys",
+            "artist": "Jonathan G. Ferrar II"
+        }
+    },
+    {
+        "name": "Doro",
+        "age": 40,
+        "phone": {
+            "personal": "642-129-984",
+            "work": "676-674-448",
+            "ext": 1362
+        },
+        "favorites": {
+            "restaurant": "Sonic",
+            "artist": "Constance Olivia Smith"
+        }
+    },
+    {
+        "name": "Austina",
+        "age": 33,
+        "phone": {
+            "personal": "487-980-967",
+            "work": "858-938-332",
+            "ext": 5484
+        },
+        "favorites": {
+            "restaurant": "Burger King",
+            "artist": "LaVonne L. LaRue"
+        }
+    },
+    {
+        "name": "Drucy",
+        "age": 67,
+        "phone": {
+            "personal": "372-849-812",
+            "work": "631-560-887",
+            "ext": 6824
+        },
+        "favorites": {
+            "restaurant": "Chipotle",
+            "artist": "Hillary Hewitt Goldwynn-Post"
+        }
+    },
+    {
+        "name": "Denni",
+        "age": 58,
+        "phone": {
+            "personal": "472-736-897",
+            "work": "768-291-394",
+            "ext": 2539
+        },
+        "favorites": {
+            "restaurant": "Panda Express",
+            "artist": "Riley Rudolph Rewington"
+        }
+    },
+    {
+        "name": "Janela",
+        "age": 67,
+        "phone": {
+            "personal": "658-881-400",
+            "work": "450-133-777",
+            "ext": 6897
+        },
+        "favorites": {
+            "restaurant": "Sonic",
+            "artist": "Hillary Hewitt Goldwynn-Post"
+        }
+    },
+    {
+        "name": "Eugenia",
+        "age": 52,
+        "phone": {
+            "personal": "749-551-532",
+            "work": "299-186-987",
+            "ext": 6250
+        },
+        "favorites": {
+            "restaurant": "Sonic",
+            "artist": "Riley Rudolph Rewington"
+        }
+    },
+    {
+        "name": "Brynne",
+        "age": 44,
+        "phone": {
+            "personal": "142-686-461",
+            "work": "771-328-317",
+            "ext": 7220
+        },
+        "favorites": {
+            "restaurant": "Taco Bell",
+            "artist": "Constance Olivia Smith"
+        }
+    },
+    {
+        "name": "Caritta",
+        "age": 69,
+        "phone": {
+            "personal": "425-301-621",
+            "work": "259-288-854",
+            "ext": 4539
+        },
+        "favorites": {
+            "restaurant": "Panda Express",
+            "artist": "Barot Bellingham"
+        }
+    },
+    {
+        "name": "Aubrey",
+        "age": 71,
+        "phone": {
+            "personal": "871-371-705",
+            "work": "493-270-830",
+            "ext": 2042
+        },
+        "favorites": {
+            "restaurant": "Panera",
+            "artist": "LaVonne L. LaRue"
+        }
+    },
+    {
+        "name": "Eleen",
+        "age": 21,
+        "phone": {
+            "personal": "133-350-941",
+            "work": "734-612-474",
+            "ext": 1942
+        },
+        "favorites": {
+            "restaurant": "Panda Express",
+            "artist": "Jennifer Jerome"
+        }
+    },
+    {
+        "name": "Johnette",
+        "age": 66,
+        "phone": {
+            "personal": "878-703-789",
+            "work": "903-882-890",
+            "ext": 6573
+        },
+        "favorites": {
+            "restaurant": "Arbys",
+            "artist": "Riley Rudolph Rewington"
+        }
+    },
+    {
+        "name": "Elle",
+        "age": 28,
+        "phone": {
+            "personal": "209-891-959",
+            "work": "656-307-457",
+            "ext": 8880
+        },
+        "favorites": {
+            "restaurant": "McDonalds",
+            "artist": "Jennifer Jerome"
+        }
+    },
+    {
+        "name": "Debor",
+        "age": 28,
+        "phone": {
+            "personal": "582-145-252",
+            "work": "505-557-580",
+            "ext": 8546
+        },
+        "favorites": {
+            "restaurant": "Five Guys",
+            "artist": "Riley Rudolph Rewington"
+        }
+    },
+    {
+        "name": "Tyne",
+        "age": 46,
+        "phone": {
+            "personal": "266-691-731",
+            "work": "143-772-894",
+            "ext": 8095
+        },
+        "favorites": {
+            "restaurant": "Taco Bell",
+            "artist": "Jonathan G. Ferrar II"
+        }
+    },
+    {
+        "name": "Halli",
+        "age": 39,
+        "phone": {
+            "personal": "905-742-487",
+            "work": "757-792-501",
+            "ext": 3449
+        },
+        "favorites": {
+            "restaurant": "In-N-Out",
+            "artist": "Barot Bellingham"
+        }
+    },
+    {
+        "name": "Carine",
+        "age": 40,
+        "phone": {
+            "personal": "521-333-479",
+            "work": "480-239-278",
+            "ext": 7238
+        },
+        "favorites": {
+            "restaurant": "Hardees",
+            "artist": "Jonathan G. Ferrar II"
+        }
+    },
+    {
+        "name": "Heddi",
+        "age": 29,
+        "phone": {
+            "personal": "259-902-812",
+            "work": "698-526-985",
+            "ext": 8034
+        },
+        "favorites": {
+            "restaurant": "Burger King",
+            "artist": "Constance Olivia Smith"
+        }
+    },
+    {
+        "name": "Roxana",
+        "age": 72,
+        "phone": {
+            "personal": "547-132-230",
+            "work": "375-722-379",
+            "ext": 2153
+        },
+        "favorites": {
+            "restaurant": "Panera",
+            "artist": "Jonathan G. Ferrar II"
+        }
+    },
+    {
+        "name": "Nanette",
+        "age": 47,
+        "phone": {
+            "personal": "406-580-569",
+            "work": "317-117-854",
+            "ext": 2675
+        },
+        "favorites": {
+            "restaurant": "Taco Bell",
+            "artist": "Hassum Harrod"
+        }
+    },
+    {
+        "name": "Jessamine",
+        "age": 68,
+        "phone": {
+            "personal": "189-989-583",
+            "work": "166-113-418",
+            "ext": 7716
+        },
+        "favorites": {
+            "restaurant": "Arbys",
+            "artist": "Constance Olivia Smith"
+        }
+    },
+    {
+        "name": "Adriena",
+        "age": 50,
+        "phone": {
+            "personal": "899-477-432",
+            "work": "919-686-786",
+            "ext": 3642
+        },
+        "favorites": {
+            "restaurant": "Panda Express",
+            "artist": "Hassum Harrod"
+        }
+    },
+    {
+        "name": "Revkah",
+        "age": 61,
+        "phone": {
+            "personal": "401-836-904",
+            "work": "590-661-174",
+            "ext": 9970
+        },
+        "favorites": {
+            "restaurant": "Wendys",
+            "artist": "Constance Olivia Smith"
+        }
+    },
+    {
+        "name": "Madalena",
+        "age": 42,
+        "phone": {
+            "personal": "472-707-263",
+            "work": "489-954-653",
+            "ext": 3181
+        },
+        "favorites": {
+            "restaurant": "Hardees",
+            "artist": "Barot Bellingham"
+        }
+    },
+    {
+        "name": "Inez",
+        "age": 43,
+        "phone": {
+            "personal": "880-301-420",
+            "work": "188-466-432",
+            "ext": 2585
+        },
+        "favorites": {
+            "restaurant": "Arbys",
+            "artist": "Hassum Harrod"
+        }
+    },
+    {
+        "name": "Maye",
+        "age": 74,
+        "phone": {
+            "personal": "842-243-496",
+            "work": "818-564-677",
+            "ext": 5806
+        },
+        "favorites": {
+            "restaurant": "Five Guys",
+            "artist": "Jennifer Jerome"
+        }
+    },
+    {
+        "name": "Cindy",
+        "age": 60,
+        "phone": {
+            "personal": "440-855-796",
+            "work": "805-680-213",
+            "ext": 4211
+        },
+        "favorites": {
+            "restaurant": "Wendys",
+            "artist": "Jonathan G. Ferrar II"
+        }
+    },
+    {
+        "name": "Clare",
+        "age": 49,
+        "phone": {
+            "personal": "443-566-307",
+            "work": "480-621-866",
+            "ext": 1746
+        },
+        "favorites": {
+            "restaurant": "McDonalds",
+            "artist": "LaVonne L. LaRue"
+        }
+    },
+    {
+        "name": "Nollie",
+        "age": 48,
+        "phone": {
+            "personal": "159-225-593",
+            "work": "495-611-295",
+            "ext": 8690
+        },
+        "favorites": {
+            "restaurant": "Wendys",
+            "artist": "LaVonne L. LaRue"
+        }
+    },
+    {
+        "name": "Meriel",
+        "age": 57,
+        "phone": {
+            "personal": "530-269-783",
+            "work": "351-176-393",
+            "ext": 3292
+        },
+        "favorites": {
+            "restaurant": "McDonalds",
+            "artist": "Riley Rudolph Rewington"
+        }
+    },
+    {
+        "name": "Rois",
+        "age": 58,
+        "phone": {
+            "personal": "245-741-624",
+            "work": "609-125-976",
+            "ext": 3768
+        },
+        "favorites": {
+            "restaurant": "Subway",
+            "artist": "Riley Rudolph Rewington"
+        }
+    },
+    {
+        "name": "Steffane",
+        "age": 63,
+        "phone": {
+            "personal": "476-602-323",
+            "work": "701-641-454",
+            "ext": 4235
+        },
+        "favorites": {
+            "restaurant": "Five Guys",
+            "artist": "Jonathan G. Ferrar II"
+        }
+    },
+    {
+        "name": "Patience",
+        "age": 54,
+        "phone": {
+            "personal": "993-436-501",
+            "work": "250-709-826",
+            "ext": 6337
+        },
+        "favorites": {
+            "restaurant": "Five Guys",
+            "artist": "Xhou Ta"
+        }
+    },
+    {
+        "name": "Gerry",
+        "age": 41,
+        "phone": {
+            "personal": "308-904-760",
+            "work": "647-197-945",
+            "ext": 4449
+        },
+        "favorites": {
+            "restaurant": "Panda Express",
+            "artist": "Riley Rudolph Rewington"
+        }
+    },
+    {
+        "name": "Yoshi",
+        "age": 78,
+        "phone": {
+            "personal": "759-139-956",
+            "work": "925-670-328",
+            "ext": 2501
+        },
+        "favorites": {
+            "restaurant": "Five Guys",
+            "artist": "Barot Bellingham"
+        }
+    },
+    {
+        "name": "Liva",
+        "age": 37,
+        "phone": {
+            "personal": "966-126-725",
+            "work": "685-926-746",
+            "ext": 3137
+        },
+        "favorites": {
+            "restaurant": "Burger King",
+            "artist": "LaVonne L. LaRue"
+        }
+    },
+    {
+        "name": "Truda",
+        "age": 43,
+        "phone": {
+            "personal": "965-224-892",
+            "work": "568-243-711",
+            "ext": 4273
+        },
+        "favorites": {
+            "restaurant": "In-N-Out",
+            "artist": "Hassum Harrod"
+        }
+    },
+    {
+        "name": "Joey",
+        "age": 48,
+        "phone": {
+            "personal": "278-573-722",
+            "work": "410-157-922",
+            "ext": 2521
+        },
+        "favorites": {
+            "restaurant": "Panda Express",
+            "artist": "Hassum Harrod"
+        }
+    },
+    {
+        "name": "Dawn",
+        "age": 43,
+        "phone": {
+            "personal": "520-697-982",
+            "work": "599-802-626",
+            "ext": 7951
+        },
+        "favorites": {
+            "restaurant": "Burger King",
+            "artist": "LaVonne L. LaRue"
+        }
+    },
+    {
+        "name": "Celisse",
+        "age": 35,
+        "phone": {
+            "personal": "970-377-247",
+            "work": "665-733-513",
+            "ext": 8792
+        },
+        "favorites": {
+            "restaurant": "Cookout",
+            "artist": "Xhou Ta"
+        }
+    },
+    {
+        "name": "Nickie",
+        "age": 50,
+        "phone": {
+            "personal": "870-254-820",
+            "work": "747-910-506",
+            "ext": 5176
+        },
+        "favorites": {
+            "restaurant": "Burger King",
+            "artist": "Hassum Harrod"
+        }
+    },
+    {
+        "name": "Kylen",
+        "age": 20,
+        "phone": {
+            "personal": "542-152-730",
+            "work": "887-688-989",
+            "ext": 8617
+        },
+        "favorites": {
+            "restaurant": "McDonalds",
+            "artist": "Jennifer Jerome"
+        }
+    },
+    {
+        "name": "Megan",
+        "age": 46,
+        "phone": {
+            "personal": "266-757-869",
+            "work": "244-812-422",
+            "ext": 5217
+        },
+        "favorites": {
+            "restaurant": "McDonalds",
+            "artist": "Riley Rudolph Rewington"
+        }
+    },
+    {
+        "name": "Phillis",
+        "age": 71,
+        "phone": {
+            "personal": "775-672-626",
+            "work": "833-182-314",
+            "ext": 4811
+        },
+        "favorites": {
+            "restaurant": "In-N-Out",
+            "artist": "Riley Rudolph Rewington"
+        }
+    },
+    {
+        "name": "Barrie",
+        "age": 67,
+        "phone": {
+            "personal": "655-746-550",
+            "work": "767-290-561",
+            "ext": 7622
+        },
+        "favorites": {
+            "restaurant": "Chipotle",
+            "artist": "Riley Rudolph Rewington"
+        }
+    },
+    {
+        "name": "Malva",
+        "age": 70,
+        "phone": {
+            "personal": "554-398-455",
+            "work": "976-827-532",
+            "ext": 5553
+        },
+        "favorites": {
+            "restaurant": "Sonic",
+            "artist": "Hassum Harrod"
+        }
+    },
+    {
+        "name": "Illa",
+        "age": 58,
+        "phone": {
+            "personal": "504-873-369",
+            "work": "744-315-207",
+            "ext": 8717
+        },
+        "favorites": {
+            "restaurant": "Sonic",
+            "artist": "Jennifer Jerome"
+        }
+    },
+    {
+        "name": "Vevay",
+        "age": 45,
+        "phone": {
+            "personal": "860-941-796",
+            "work": "215-978-913",
+            "ext": 8494
+        },
+        "favorites": {
+            "restaurant": "Chick-fil-A",
+            "artist": "Barot Bellingham"
+        }
+    },
+    {
+        "name": "Helena",
+        "age": 75,
+        "phone": {
+            "personal": "395-974-848",
+            "work": "277-391-148",
+            "ext": 1446
+        },
+        "favorites": {
+            "restaurant": "Subway",
+            "artist": "Jennifer Jerome"
+        }
+    },
+    {
+        "name": "Brandice",
+        "age": 22,
+        "phone": {
+            "personal": "272-540-995",
+            "work": "233-485-352",
+            "ext": 5957
+        },
+        "favorites": {
+            "restaurant": "Chipotle",
+            "artist": "Barot Bellingham"
+        }
+    },
+    {
+        "name": "Helene",
+        "age": 43,
+        "phone": {
+            "personal": "245-153-217",
+            "work": "904-709-390",
+            "ext": 2885
+        },
+        "favorites": {
+            "restaurant": "Five Guys",
+            "artist": "LaVonne L. LaRue"
+        }
+    },
+    {
+        "name": "Roby",
+        "age": 58,
+        "phone": {
+            "personal": "315-297-591",
+            "work": "530-431-447",
+            "ext": 4271
+        },
+        "favorites": {
+            "restaurant": "Subway",
+            "artist": "Barot Bellingham"
+        }
+    },
+    {
+        "name": "Camila",
+        "age": 68,
+        "phone": {
+            "personal": "407-556-359",
+            "work": "699-992-138",
+            "ext": 7375
+        },
+        "favorites": {
+            "restaurant": "Cookout",
+            "artist": "Riley Rudolph Rewington"
+        }
+    },
+    {
+        "name": "Becki",
+        "age": 71,
+        "phone": {
+            "personal": "684-268-674",
+            "work": "632-674-227",
+            "ext": 2956
+        },
+        "favorites": {
+            "restaurant": "In-N-Out",
+            "artist": "Constance Olivia Smith"
+        }
+    },
+    {
+        "name": "Constantine",
+        "age": 34,
+        "phone": {
+            "personal": "364-261-130",
+            "work": "458-487-220",
+            "ext": 1718
+        },
+        "favorites": {
+            "restaurant": "In-N-Out",
+            "artist": "Jennifer Jerome"
+        }
+    },
+    {
+        "name": "Blake",
+        "age": 26,
+        "phone": {
+            "personal": "211-572-250",
+            "work": "134-919-156",
+            "ext": 3931
+        },
+        "favorites": {
+            "restaurant": "In-N-Out",
+            "artist": "LaVonne L. LaRue"
+        }
+    },
+    {
+        "name": "Roseanne",
+        "age": 75,
+        "phone": {
+            "personal": "455-980-393",
+            "work": "980-332-676",
+            "ext": 3287
+        },
+        "favorites": {
+            "restaurant": "Taco Bell",
+            "artist": "Barot Bellingham"
+        }
+    },
+    {
+        "name": "Josephine",
+        "age": 75,
+        "phone": {
+            "personal": "332-615-251",
+            "work": "875-625-269",
+            "ext": 6517
+        },
+        "favorites": {
+            "restaurant": "Taco Bell",
+            "artist": "Jonathan G. Ferrar II"
+        }
+    },
+    {
+        "name": "Cristabel",
+        "age": 65,
+        "phone": {
+            "personal": "691-757-802",
+            "work": "459-280-332",
+            "ext": 4667
+        },
+        "favorites": {
+            "restaurant": "Panera",
+            "artist": "Xhou Ta"
+        }
+    },
+    {
+        "name": "Dorree",
+        "age": 55,
+        "phone": {
+            "personal": "729-331-222",
+            "work": "663-970-272",
+            "ext": 1584
+        },
+        "favorites": {
+            "restaurant": "Wendys",
+            "artist": "Hillary Hewitt Goldwynn-Post"
+        }
+    },
+    {
+        "name": "Elvira",
+        "age": 36,
+        "phone": {
+            "personal": "841-394-512",
+            "work": "850-574-823",
+            "ext": 8261
+        },
+        "favorites": {
+            "restaurant": "Cookout",
+            "artist": "Jonathan G. Ferrar II"
+        }
+    },
+    {
+        "name": "Shalne",
+        "age": 76,
+        "phone": {
+            "personal": "695-897-449",
+            "work": "889-214-929",
+            "ext": 7792
+        },
+        "favorites": {
+            "restaurant": "Panera",
+            "artist": "LaVonne L. LaRue"
+        }
+    },
+    {
+        "name": "Morganne",
+        "age": 29,
+        "phone": {
+            "personal": "389-592-717",
+            "work": "336-312-364",
+            "ext": 3556
+        },
+        "favorites": {
+            "restaurant": "Burger King",
+            "artist": "Hillary Hewitt Goldwynn-Post"
+        }
+    },
+    {
+        "name": "Letisha",
+        "age": 50,
+        "phone": {
+            "personal": "897-929-569",
+            "work": "347-942-397",
+            "ext": 8673
+        },
+        "favorites": {
+            "restaurant": "Five Guys",
+            "artist": "Jennifer Jerome"
+        }
+    },
+    {
+        "name": "Viola",
+        "age": 59,
+        "phone": {
+            "personal": "597-393-898",
+            "work": "857-675-383",
+            "ext": 5663
+        },
+        "favorites": {
+            "restaurant": "Wendys",
+            "artist": "Hassum Harrod"
+        }
+    },
+    {
+        "name": "Cayla",
+        "age": 40,
+        "phone": {
+            "personal": "699-969-577",
+            "work": "594-248-287",
+            "ext": 4655
+        },
+        "favorites": {
+            "restaurant": "Chick-fil-A",
+            "artist": "Constance Olivia Smith"
+        }
+    },
+    {
+        "name": "Dido",
+        "age": 44,
+        "phone": {
+            "personal": "211-717-339",
+            "work": "112-495-823",
+            "ext": 8341
+        },
+        "favorites": {
+            "restaurant": "Subway",
+            "artist": "Jennifer Jerome"
+        }
+    },
+    {
+        "name": "Ilse",
+        "age": 64,
+        "phone": {
+            "personal": "429-315-124",
+            "work": "954-153-809",
+            "ext": 2670
+        },
+        "favorites": {
+            "restaurant": "Burger King",
+            "artist": "Barot Bellingham"
+        }
+    },
+    {
+        "name": "Ariela",
+        "age": 58,
+        "phone": {
+            "personal": "444-486-721",
+            "work": "356-291-808",
+            "ext": 2800
+        },
+        "favorites": {
+            "restaurant": "Panera",
+            "artist": "Hillary Hewitt Goldwynn-Post"
+        }
+    },
+    {
+        "name": "Elise",
+        "age": 44,
+        "phone": {
+            "personal": "412-447-715",
+            "work": "209-713-129",
+            "ext": 1356
+        },
+        "favorites": {
+            "restaurant": "Panda Express",
+            "artist": "Xhou Ta"
+        }
+    },
+    {
+        "name": "Nanice",
+        "age": 41,
+        "phone": {
+            "personal": "702-643-303",
+            "work": "723-965-222",
+            "ext": 2830
+        },
+        "favorites": {
+            "restaurant": "Cookout",
+            "artist": "Riley Rudolph Rewington"
+        }
+    },
+    {
+        "name": "Laureen",
+        "age": 59,
+        "phone": {
+            "personal": "148-478-167",
+            "work": "520-351-115",
+            "ext": 8152
+        },
+        "favorites": {
+            "restaurant": "Subway",
+            "artist": "Hillary Hewitt Goldwynn-Post"
+        }
+    },
+    {
+        "name": "Sheri",
+        "age": 53,
+        "phone": {
+            "personal": "258-320-724",
+            "work": "205-968-324",
+            "ext": 4701
+        },
+        "favorites": {
+            "restaurant": "Hardees",
+            "artist": "Xhou Ta"
+        }
+    },
+    {
+        "name": "Kayley",
+        "age": 41,
+        "phone": {
+            "personal": "906-672-306",
+            "work": "886-271-652",
+            "ext": 5488
+        },
+        "favorites": {
+            "restaurant": "Cookout",
+            "artist": "Riley Rudolph Rewington"
+        }
+    },
+    {
+        "name": "Grete",
+        "age": 24,
+        "phone": {
+            "personal": "551-117-220",
+            "work": "150-955-856",
+            "ext": 5939
+        },
+        "favorites": {
+            "restaurant": "Taco Bell",
+            "artist": "Hassum Harrod"
+        }
+    },
+    {
+        "name": "Lise",
+        "age": 47,
+        "phone": {
+            "personal": "992-628-232",
+            "work": "254-196-952",
+            "ext": 1787
+        },
+        "favorites": {
+            "restaurant": "Arbys",
+            "artist": "Constance Olivia Smith"
+        }
+    },
+    {
+        "name": "Mickie",
+        "age": 28,
+        "phone": {
+            "personal": "360-426-522",
+            "work": "431-741-455",
+            "ext": 2353
+        },
+        "favorites": {
+            "restaurant": "Cookout",
+            "artist": "LaVonne L. LaRue"
+        }
+    }
+]
